@@ -1,0 +1,11 @@
+C:\Users\endroni\Documents\User_Control_Reiniciando\User_Control_Reiniciando\bin\Debug\User_Control_Reiniciando.exe.config
+C:\Users\endroni\Documents\User_Control_Reiniciando\User_Control_Reiniciando\bin\Debug\User_Control_Reiniciando.exe
+C:\Users\endroni\Documents\User_Control_Reiniciando\User_Control_Reiniciando\bin\Debug\User_Control_Reiniciando.pdb
+C:\Users\endroni\Documents\User_Control_Reiniciando\User_Control_Reiniciando\obj\Debug\User_Control_Reiniciando.csprojResolveAssemblyReference.cache
+C:\Users\endroni\Documents\User_Control_Reiniciando\User_Control_Reiniciando\obj\Debug\User_Control_Reiniciando.Properties.Resources.resources
+C:\Users\endroni\Documents\User_Control_Reiniciando\User_Control_Reiniciando\obj\Debug\User_Control_Reiniciando.UCHome.resources
+C:\Users\endroni\Documents\User_Control_Reiniciando\User_Control_Reiniciando\obj\Debug\User_Control_Reiniciando.UCNext.resources
+C:\Users\endroni\Documents\User_Control_Reiniciando\User_Control_Reiniciando\obj\Debug\User_Control_Reiniciando.csproj.GenerateResource.Cache
+C:\Users\endroni\Documents\User_Control_Reiniciando\User_Control_Reiniciando\obj\Debug\User_Control_Reiniciando.exe
+C:\Users\endroni\Documents\User_Control_Reiniciando\User_Control_Reiniciando\obj\Debug\User_Control_Reiniciando.pdb
+C:\Users\endroni\Documents\User_Control_Reiniciando\User_Control_Reiniciando\obj\Debug\User_Control_Reiniciando.TelaPrincipal.resources
